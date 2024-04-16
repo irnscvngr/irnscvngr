@@ -170,6 +170,8 @@ Click on the elements below if you'd like to know more:<br>
 <details>
  <summary><b>Digital Art & Design</b></summary>
  <br>
+ <i>See examples in my porfolio linked below:</i><br>
+ <br>
  <table>
   <tr>
     <td>
