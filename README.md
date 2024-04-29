@@ -22,7 +22,7 @@ Click on the elements below if you'd like to know more:<br>
     <td>
       <b>Python</b><br>
       I'm using Python for data-engineering and analysis. This includes (among others):<br>
-      <i>Pandas, Numpy, SciPy, Requests, BeautifulSoup, Selenium</i>
+      <i>Pandas, Numpy, SKlearn, BeautifulSoup, Selenium</i>
       <br>
     </td>
   </tr>
