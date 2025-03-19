@@ -198,6 +198,8 @@ Click on the elements below if you'd like to know more:<br>
 </table>
 </details>
 
+I'm writing about some of my work on [Medium](https://medium.com/@theironscavenger/).
+
 ## Contact
 - Write me on <a href="https://de.linkedin.com/in/ironscavenger">[LinkedIn]</a><br>
 - Or send me a mail 📫<br>
